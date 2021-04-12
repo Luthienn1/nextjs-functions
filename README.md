@@ -1,23 +1,8 @@
-<br>
-<div align="center">
-  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
+## Serveless functions with NextJS & ReactJS
 
-  <h4 align="center">
-     Next.js, declarative UI and design systems applied to ReactJS. Access the tutorial <a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
-  </h4>
-</div>
+When we create front-end applications with React or Next.js we sometimes need to save information in the database or perform operations that only work when linked to a back-end.
 
----
-
-<p align="center">
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eugustavo/youtube-nextjs-design-system" />
-  <img alt="Github License" src="https://img.shields.io/github/license/eugustavo/youtube-nextjs-design-system" />
-</p>
-
-<p align="center">
-  <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
-</p>
-
+In this project I used Vercel's Serverless Functions to save a user's data in MongoDB using ReactJS and Next.js without having to create a back-end from scratch.
 
 ## 🚀 Getting started
 
@@ -26,10 +11,10 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
+$ git clone https://github.com/Luthienn1/nextjs-functions
 
 # Access the repository
-$ cd youtube-nextjs-design-system
+$ cd nextjs-functions
 
 # Install the dependencies
 $ yarn install
